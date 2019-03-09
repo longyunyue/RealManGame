@@ -13,4 +13,16 @@ public class StageGenerator : MonoBehaviour {
 	void Update () {
 		
 	}
+
+    /**结束生成路径*/
+    public void StopWork()
+    {
+
+    }
+
+    /**开始生成路径*/
+    public void StartWork()
+    {
+
+    } 
 }

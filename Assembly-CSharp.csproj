@@ -53,8 +53,9 @@
     </Reference>
   </ItemGroup>
   <ItemGroup>
-     <Compile Include="Assets\GameLogic.cs" />
      <Compile Include="Assets\Orc Warrior\Scripts\MouseController.cs" />
+     <Compile Include="Assets\Scripts\Game\GameLogic.cs" />
+     <Compile Include="Assets\Scripts\Game\StageGenerator.cs" />
      <Compile Include="Assets\StageGenerator.cs" />
  <Reference Include="UnityEditor.StandardEvents">
  <HintPath>C:/Users/longyunyue/Documents/UnityProjects/RealManGame/Library/ScriptAssemblies/UnityEditor.StandardEvents.dll</HintPath>
